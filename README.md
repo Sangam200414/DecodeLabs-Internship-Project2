@@ -29,9 +29,9 @@ The API handles user data, performs basic validation, and returns JSON responses
 ```
 Project2-api
 │
-├── server.js
+├── README.md
 ├── package.json
-└── README.md
+└── server.js
 ```
 
 ---
