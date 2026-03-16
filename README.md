@@ -24,18 +24,6 @@ The API handles user data, performs basic validation, and returns JSON responses
 
 ---
 
-## 📂 Project Structure
-
-```
-project2-api
-│
-├── server.js
-├── package.json
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 1️⃣ Clone the repository
